@@ -1,0 +1,24 @@
+# This CITATION.cff file was generated with cffinit.
+# Visit https://bit.ly/cffinit to generate yours today!
+
+cff-version: 1.2.0
+title: LimeSurvey Parser
+message: >-
+  If you use this software, please cite it using the
+  metadata from this file.
+type: software
+authors:
+  - given-names: Julian Johannes
+    family-names: Lenz
+    email: j.j.lenz@swansea.ac.uk
+    affiliation: Swansea University
+    orcid: 'https://orcid.org/0000-0001-5250-0005'
+repository-code: 'https://github.com/chillenzer/limesurvey_parser'
+abstract: >-
+  A small code for parsing LimeSurvey-generated csv
+  files into pandas DataFrames.
+keywords:
+  - LimeSurvey
+  - pandas
+  - parsing
+license: MIT
